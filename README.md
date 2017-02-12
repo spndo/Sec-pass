@@ -1,5 +1,5 @@
 # Sec-pass
-# Our app is for generating passwords ramdomly. For people who concern about their security and are tired of using the same passwords again and again, we can help those people to generate passwords with ramdom numbers and charaters which will greatly help them to protect their pravicy. In addition, they do not need to worry about do not remenber passwords since we will automacily save the password by default. 
+# Our code is for generating passwords ramdomly. For people who concern about their security and are tired of using the same passwords again and again, we can help those people to generate passwords with ramdom numbers and charaters which will greatly help them to protect their pravicy. In addition, they do not need to worry about do not remenber passwords since we will automacily save the password by default. 
 
 
 import java.util.*;
